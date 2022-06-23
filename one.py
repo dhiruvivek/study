@@ -1,0 +1,2 @@
+#training file
+print ("training")
